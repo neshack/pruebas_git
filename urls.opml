@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Noticias Tech, IA y Data Management - 50 Fuentes</title>
+  </head>
+  <body>
+    <outline text="Tecnología General">
+      <outline text="Xataka" type="rss" xmlUrl="https://feeds.weblogssl.com/xataka2"/>
+      <outline text="WIRED en Español" type="rss" xmlUrl="https://es.wired.com/feed/rss"/>
+      <outline text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/"/>
+      <outline text="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/"/>
+      <outline text="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml"/>
+      <outline text="FayerWayer" type="rss" xmlUrl="https://www.fayerwayer.com/rss/"/>
+      <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+      <outline text="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index"/>
+      <outline text="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/rss"/>
+      <outline text="Computer Hoy" type="rss" xmlUrl="https://computerhoy.com/feed"/>
+      <outline text="Silicon.es" type="rss" xmlUrl="https://www.silicon.es/feed"/>
+      <outline text="El Cronista – InfoTechnology" type="rss" xmlUrl="https://www.cronista.com/infotechnology/feed/"/>
+      <outline text="Genbeta" type="rss" xmlUrl="https://www.genbeta.com/feed"/>
+      <outline text="Teknautas" type="rss" xmlUrl="https://www.teknautas.com/feed"/>
+      <outline text="Digital Trends" type="rss" xmlUrl="https://www.digitaltrends.com/feed/"/>
+      <outline text="ZDNet" type="rss" xmlUrl="https://www.zdnet.com/news/rss.xml"/>
+      <outline text="TechSpot" type="rss" xmlUrl="https://www.techspot.com/backend.xml"/>
+      <outline text="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot"/>
+      <outline text="VentureBeat" type="rss" xmlUrl="https://venturebeat.com/feed/"/>
+      <outline text="Recode" type="rss" xmlUrl="https://www.vox.com/rss/recode/index.xml"/>
+    </outline>
+    <outline text="Inteligencia Artificial y Ciencia de Datos">
+      <outline text="OpenAI Blog" type="rss" xmlUrl="https://openai.com/blog/rss/"/>
+      <outline text="Google AI Blog" type="rss" xmlUrl="https://ai.googleblog.com/feeds/posts/default"/>
+      <outline text="VentureBeat AI" type="rss" xmlUrl="https://venturebeat.com/category/ai/feed/"/>
+      <outline text="arXiv AI" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.AI"/>
+      <outline text="Towards Data Science" type="rss" xmlUrl="https://towardsdatascience.com/feed"/>
+      <outline text="KDnuggets" type="rss" xmlUrl="https://www.kdnuggets.com/feed"/>
+      <outline text="Data Science Central" type="rss" xmlUrl="https://feeds.feedburner.com/Feat"/>
+      <outline text="AI Trends" type="rss" xmlUrl="https://www.aitrends.com/feed/"/>
+      <outline text="Machine Learning Mastery" type="rss" xmlUrl="https://machinelearningmastery.com/feed/"/>
+      <outline text="Analytics Vidhya" type="rss" xmlUrl="https://www.analyticsvidhya.com/blog/feed/"/>
+      <outline text="DataCamp Blog" type="rss" xmlUrl="https://www.datacamp.com/community/blog/feed"/>
+      <outline text="The AI Report" type="rss" xmlUrl="https://aira.report/feed/"/>
+      <outline text="AI Weekly" type="rss" xmlUrl="https://aiweekly.co/rss/"/>
+      <outline text="Synced Review" type="rss" xmlUrl="https://syncedreview.com/feed/"/>
+      <outline text="DeepMind Blog" type="rss" xmlUrl="https://deepmind.com/blog/feed"/>
+      <outline text="Facebook AI Research" type="rss" xmlUrl="https://ai.facebook.com/blog/rss"/>
+    </outline>
+    <outline text="Gestión de Datos (Data Management)">
+      <outline text="Dataversity" type="rss" xmlUrl="https://www.dataversity.net/category/data-topics/feed/"/>
+      <outline text="DataBreachToday" type="rss" xmlUrl="https://www.databreachtoday.com/rss"/>
+      <outline text="SmartData Collective" type="rss" xmlUrl="https://www.smartdatacollective.com/feed/"/>
+      <outline text="Datafloq" type="rss" xmlUrl="https://datafloq.com/feed/"/>
+      <outline text="TDWI" type="rss" xmlUrl="https://tdwi.org/Feeds/All/TDWIFeed.aspx"/>
+      <outline text="Information Management" type="rss" xmlUrl="https://www.information-management.com/rss"/>
+      <outline text="Datamation" type="rss" xmlUrl="https://www.datamation.com/feed/"/>
+      <outline text="Database Trends and Applications" type="rss" xmlUrl="https://www.dbta.com/feeds/rss"/>
+      <outline text="Datanami" type="rss" xmlUrl="https://www.datanami.com/feed/"/>
+      <outline text="Data Engineering Podcast" type="rss" xmlUrl="https://www.dataengineeringpodcast.com/feed/"/>
+    </outline>
+  </body>
+</opml>
